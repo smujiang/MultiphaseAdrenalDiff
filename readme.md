@@ -11,8 +11,10 @@ Adrenal lesion characterization from CT often relies on multiple imaging phases,
 ## Gallery
 Attenuation for belign and malignant cases.
 ![](imgs/HU_attenuation.png)
+
 Washout features distribution by delay time.
 ![](imgs/Washout_features.png)
+
 Model performance under different feature fusion strategies.
 ![](imgs/FusionPerformance.png)
 
