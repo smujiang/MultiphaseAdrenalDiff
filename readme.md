@@ -107,15 +107,11 @@ Washout and washout-rate features are incorporated and can be included or exclud
 ## Citation
 If you use this code, please cite the corresponding paper:
 ``` bibtex
-@article{jiang2026multiphaseadrenaldiff,
-  title   = {Real-World Adrenal Lesion Classification with Data Imputation and Multiphase CT Feature Fusion},
-  author  = {Jun Jiang and colleagues},
-  journal = {<Journal name>},
-  year    = {2026},
-  volume  = {},
-  number  = {},
-  pages   = {},
-  doi     = {}
+@article{jiang2026adrenal,
+  title = {Real-World Adrenal Lesion Classification with Data Imputation and Multiphase CT Feature Fusion},
+  author = {Jiang, Jun and Chen, Fang and Hu, Yian and Tafti, Ahmad P. and Ruan, Xiaoyang and Giancardo, Luca and Fu, Sunyang and Wen, Andrew and Wang, Liwei and Wang, Yanshan and Ng, Chaan S. and Liu, Hongfang},
+  year = {2026},
+  journal = {Preprint},
 }
 ```
 
