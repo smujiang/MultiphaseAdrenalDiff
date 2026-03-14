@@ -59,12 +59,6 @@ Feature-importance analysis.
 figure_*.ipynb
 Notebooks for reproducing paper figures.
 
-## Dependency Installation
-``` bash
-pip install pydicom
-pip install seaborn, pandas, natsort
-pip install torch, torchvision
-```
 ## Quick start
 1. Prepare normalized feature CSV. Please refer to AdrenalDataStructures.py and AdrenalInstance.py
 2. Create config.py. 
