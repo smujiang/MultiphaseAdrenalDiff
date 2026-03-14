@@ -1,5 +1,5 @@
 # Real-World Adrenal Lesion Classification with Data Imputation and Multiphase CT Feature Fusion
-Code for multiphase CT-based adrenal lesion malignancy classification using radiomic features and multiple feature-fusion strategies, including early fusion, late fusion, and mask-token transformer fusion. The repository contains data preprocessing, feature grouping, oversampling, model training, fusion experiments, and figure-generation notebooks.
+Code for multiphase CT-based adrenal lesion malignancy classification using radiomic features and multiple feature-fusion strategies, including early fusion, late fusion, and mask-token fusion. The repository contains data preprocessing, feature grouping, oversampling, model training, fusion experiments, and figure-generation notebooks.
 ![Image Example](imgs/example_multiphase_lesion.png)
 Adrenal lesion characterization from CT often relies on multiple imaging phases, such as non-contrast (NC), arterial (AR), portal venous (PV), and delayed (Delay) scans. This repository studies how to classify benign versus malignant adrenal lesions under heterogeneous real-world phase availability, including incomplete phase combinations. The code supports:
 1. radiomic feature-based classification across different phase combinations
